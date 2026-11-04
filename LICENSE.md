@@ -1,6 +1,6 @@
-# Licence proposal
+# Licence and attribution
 
-## Proposed licence
+## Licence
 
 **Creative Commons Attribution 4.0 International (CC BY 4.0)** for the compilation: the selection of areas, the structure and field design, the licensing and rules summaries written by the author, and the documentation.
 Licence text: https://creativecommons.org/licenses/by/4.0/legalcode
@@ -41,9 +41,3 @@ Link to the licence: https://www.nationalarchives.gov.uk/doc/open-government-lic
 ## Suggested citation for reusers
 
 Gorok, L. (2026). *UK Rent & Landlord Obligations Index 2026* (Version 1.0) [Data set]. IziRento. https://izirento.com
-
-## Notes for review
-
-- Council scheme dates and areas are facts taken from council pages and notices, written in our own words with the URL and check date; no council text, logos or maps are copied. Legal review: approved on 3 November 2026 with the edits applied here.
-- The dataset is information only and not legal advice (also stated in the README).
-- Platform settings: Zenodo licence field "CC-BY-4.0"; Kaggle licence "CC BY 4.0"; GitHub repository licence file `LICENSE` with the CC BY 4.0 text, which GitHub does not auto-detect for data; keep this `LICENSE.md` alongside it.
